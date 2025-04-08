@@ -1,0 +1,10 @@
+name: humanitarian-risk-dashboard
+title:
+username: scholarshipdsan
+account: scholarshipdsan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14375264
+bundleId: 10025033
+url: https://scholarshipdsan.shinyapps.io/humanitarian-risk-dashboard/
+version: 1
